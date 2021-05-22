@@ -1,0 +1,14 @@
+
+		:root {
+    		--primary-color: #1DA1F2;
+  		}
+	
+
+@font-face {
+    font-family: Roboto_Condensed;
+    src: url(../fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf);
+  }
+
+.margin-t-neg-50{
+    margin-top: -50px;
+}
